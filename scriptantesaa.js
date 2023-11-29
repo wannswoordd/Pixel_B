@@ -421,7 +421,7 @@ loop();
 
 
 function sair(){
-    location = "./login.html"
+    location = "./index.html"
     alert("muito obrigado por jogar");
 }
 
